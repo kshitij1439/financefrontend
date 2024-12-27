@@ -8,7 +8,9 @@ function Hero() {
             <div className='text-center'>
                 <h1 className='mt-5 text-center'>Invest in everything</h1>
                 <p>Online platform to invest in stocks, derivatives, mutual funds, ETFs, bonds, and more.</p>
-                <button style={{width:"25%",margin:"0 auto"}} className='p-3 btn btn-primary'>Sign up for free</button>
+                <a href="https://financedash-3hcy.onrender.com/">
+                <button style={{width:"25%",margin:"0 auto"}} className='p-3 btn btn-primary'>Dashboard</button>
+                </a>
             </div>
         </div>
      );

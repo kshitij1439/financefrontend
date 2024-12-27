@@ -8,7 +8,10 @@ function OpenAccount() {
             <div className='col-12 text-center'>
                 <h1 className='mt-5'>Open a Zerodha account</h1>
                 <p>Modern  platforms and apps &#8377;0 investments, and flat  &#8377;20 intraday and F&O trades</p>
-                <button style={{width:"25%",margin:"0 auto"}} className='p-3 btn btn-primary'>Sign up for free</button>
+                
+                <a href="https://financedash-3hcy.onrender.com/">
+                <button style={{width:"25%",margin:"0 auto"}} className='p-3 btn btn-primary'>Dashboard</button>
+                </a>
                 </div>              
         </div>
      );

@@ -60,12 +60,15 @@ function Universe() {
           </div>
         </div>
 
+        <a href="https://financedash-3hcy.onrender.com/">
         <button
           style={{ width: "25%", margin: "0 auto" }}
           className="p-3 btn btn-primary"
         >
-          Sign up for free
+          {/* Sign up for free */}
+          Dashboard
         </button>
+          </a>
       </div>
     </div>
   );
